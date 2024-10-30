@@ -1,3 +1,9 @@
 tierra 
 marte 
 saturno 
+jupiter
+pluton
+mercurio
+venus
+urano
+neptuno
